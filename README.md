@@ -1,0 +1,3 @@
+Day 3 — Hallucination and Guesswork
+
+Day 3 focused on understanding AI hallucinations, guesswork and unsupported information. AI-generated aviation responses were examined to identify information that was not provided in the original situation or could not be verified. The activity demonstrated how AI can produce confident-sounding information even when important facts are missing. Prompts were improved by adding clear constraints, verification instructions and requirements to avoid unsupported assumptions. The lab highlighted the importance of checking AI-generated content before using it in professional aviation communication.
